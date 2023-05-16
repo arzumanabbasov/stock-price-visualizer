@@ -30,5 +30,5 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 ## License
 
-This project is licensed under the MIT License.
-Feel free to modify the content according to your project's specific details and requirements.
+This project is licensed under the [MIT License](LICENSE).
+
