@@ -20,7 +20,7 @@ This project is a web application built with Dash that allows users to visualize
 
 1. Run the application: `python main.py`
 
-2. Open a web browser and go to http://127.0.0.1:8050 to access the stock visualization dashboard.
+2. Open a web browser and go to 8050 port to access the stock visualization dashboard.
 
 3. Select a stock from the dropdown menu to see its historical price chart.
 
