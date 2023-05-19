@@ -10,9 +10,9 @@ This project is a web application built with Dash that allows users to visualize
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/stock-visualization.git`
+1. Clone the repository: `git clone https://github.com/arzumanabbasov/stock-price-visualizer.git`
 
-2. Change into the project directory: `cd stock-visualization`
+2. Change into the project directory: `cd stock-visualizer`
 
 3. Install the required dependencies: `pip install -r requirements.txt`
 
